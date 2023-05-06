@@ -30,27 +30,28 @@ The flow of the case study is as below:
 
 The business meaning of each column in the data is as below
 
-* *GoodCredit:* Whether the issued loan was a good decision or bad
-* *checkingstatus:* Status of existing checking account.
-duration: Duration of loan in months
-history: Credit history of the applicant
-purpose: Purpose for the loan
-amount: Credit amount
-savings: Savings account/bonds
-employ: Present employment since
-installment: Installment rate in percentage of disposable income
-status: Personal status and sex
-others: Other debtors / guarantors for the applicant
-residence: Present residence since
-property: Property type of applicant
-age: Age in years
-otherplans: Other installment plans
-housing: Housing
-cards: Number of existing credits at this bank
-job: Job
-liable: Number of people being liable to provide maintenance for
-tele: Is the Telephone registered or not
-foreign: Is the applicant a foreign worker
+* **GoodCredit:** Whether the issued loan was a good decision or bad
+* **checkingstatus:** Status of existing checking account.
+* **duration:** Duration of loan in months
+* **history:** Credit history of the applicant
+* **purpose:** Purpose for the loan
+* **amount:** Credit amount
+* **savings:** Savings account/bonds
+* **employ:** Present employment since
+* **installment:** Installment rate in percentage of disposable income
+* **status:** Personal status and sex
+* **others:** Other debtors / guarantors for the applicant
+* **residence:** Present residence since
+* **property:** Property type of applicant
+* **age:** Age in years
+* **otherplans:** Other installment plans
+* **housing:** Housing
+* **cards:** Number of existing credits at this bank
+* **job:** Job
+* **liable:** Number of people being liable to provide maintenance for
+* **tele:** Is the Telephone registered or not
+* **foreign:** Is the applicant a foreign worker
+
 The file used for this case study is "CreditRiskData.csv". This file contains the historical data of the good and bad loans issued.
 
 The goal is to learn from this data and predict if a given loan application should be approved or rejected!
