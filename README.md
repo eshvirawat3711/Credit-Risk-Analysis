@@ -1,6 +1,6 @@
 # Credit-Risk-Analysis
 
-##Goal: Predict if a Loan Credit will be a risk for bank or not
+## Goal: Predict if a Loan Credit will be a risk for bank or not
 
 In simple terms, if the loan amount is given to the applicant, will they pay back or become a defaulter?
 
